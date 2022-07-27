@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+header {
+  background: url(./img/Mask\ Group.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+nav {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.bidFather {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.list {
+  display: flex;
+  padding-top: 25px;
+  align-items: center;
+}
+
+.list_item {
+  padding-left: 15px;
+}
+
+.list_item a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.btnTR {
+  font-weight: 700;
+  font-size: 16px;
+  color: #ffffff;
+  padding: 5px 10px;
+  border-radius:5px;
+  border: 2px solid white;
+  background: rgba(33, 33, 33, 0.3);
+  box-shadow: 0px 4px 12px rgba(24, 9, 96, 0.1);
+}
