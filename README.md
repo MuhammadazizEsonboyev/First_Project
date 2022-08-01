@@ -9,6 +9,6 @@
 
 5.demo ism
 
-6.Men qaytdim
+6.Men qaytdim - Abdumurod
 
 ```
