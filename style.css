@@ -1,0 +1,127 @@
+*{
+    margin: none;
+    padding: none;
+    text-decoration: none;
+    list-style: none;
+}
+
+section{
+    background: #E5E5E5;
+}
+.btn1{
+    margin-top: 20px;
+    border: 2px solid #06B25F;
+    border-radius: 6px;
+    color: #06B25F;
+}
+.list{
+    padding-top: 20px;
+    display: flex;
+
+}
+nav{
+    padding-top: 0px;
+    align-items: center;
+}
+.item{
+    padding-left: 15px;
+    color:  #0D6EB7;
+}
+.item1{
+    padding-left: 15px;
+    color: #00A4E8;
+}
+.bigger{
+    padding-top: 40px;
+    color: #194484;
+    text-decoration: none;
+}
+.home{
+    padding-left: 100px;
+    color: #194484;
+    text-decoration: none;
+}
+.home1{
+    padding-left: 10px;
+    color: #194484;
+    text-decoration: none;
+}
+.wort{
+    padding-left: 90px;
+    padding-top: 120px;
+    text-transform: uppercase;
+    font-weight: 700;
+font-size: 44px;
+color: #194484;
+
+}
+.wort2{
+    padding-top: 30px;
+    font-weight: 700;
+font-size: 24px;
+text-transform: uppercase;
+color: #0D6EB7;
+}
+.wort3{
+    font-weight: 400;
+font-size: 16px;
+color: #242424;
+}
+.yet{
+    padding-top: 130px;
+    background: #ede5e5df;
+    padding-bottom: 100px;
+}
+.sit{
+    margin-top: 200px;
+    padding-bottom: 200px;
+background: url(./img/Vector\ 5.png);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.lectus{
+    font-weight: 700;
+font-size: 44px;
+text-transform: uppercase;
+color: #FFFFFF;
+    margin-top: 160px;
+}
+.lectus1{
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+.btn2{
+    margin-top: 20px;
+ padding-left: 30px;
+ text-align: center;    
+ padding-right: 30px;
+    background: #FFFFFF;
+border: 2px solid #06B25F;
+color: #06B25F;
+border-radius: 6px;
+}
+.work{
+    padding-top: 200px;
+    text-align: center;
+    font-weight: 700;
+font-size: 36px;
+text-transform: uppercase;
+color: #194484;
+}
+.looking{
+    font-weight: 700;
+    padding-bottom: 100px;
+font-size: 24px;
+text-align: center;
+color: #242424;
+}
+.for{
+    padding-bottom: 90px;
+    font-weight: 400;
+font-size: 16px;
+text-align: center;
+color: #242424;
+}
