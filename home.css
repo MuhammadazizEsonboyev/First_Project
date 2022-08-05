@@ -83,3 +83,29 @@ font-size: 16px;
     background: #06B25F ;
     color: rgb(250, 245, 245);
 }
+.big{
+    padding-top: 150px;
+    text-align: center;
+    background: url(./img/Vector\ 5\ \(1\).png);
+}
+.project{
+    margin-top: 10px;
+    color: #06B25F;
+    border: 2px solid #06B25F;
+    border-radius: 6px;
+    padding: 3px 30px ;
+    text-transform: uppercase;
+color: #06B25F;
+
+    margin-bottom: 250px;
+}
+.looking{
+    font-weight: 700;
+font-size: 44px;
+color: #FFFFFF;
+}
+.looking1{
+    font-weight: 400;
+font-size: 24px;
+color: #FFFFFF;
+}
