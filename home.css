@@ -109,3 +109,174 @@ color: #FFFFFF;
 font-size: 24px;
 color: #FFFFFF;
 }
+
+ /*     SANJAR   SANJAR    SANJAR */
+ /*     SANJAR   SANJAR    SANJAR */
+ /*     SANJAR   SANJAR    SANJAR */
+
+
+
+ 
+.aaaaa{
+    color: #194484;
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+.astanss{
+    color: #00A4EB;
+}
+
+.ekke{
+   color:#1b4f9d
+}
+
+.tchch{
+    padding-top: 110px; 
+    padding-left: 180px;
+}
+
+.kichik{
+    color: black;   
+    font-size: 16px;
+}
+
+.smaltext{
+    padding-top: 50px;
+    justify-content: center;
+    text-align: center;
+}
+
+.contu{
+color:black;    
+font-size: 16px;
+}
+
+.smdav{
+    padding-left: 55px;
+    justify-content: center;
+    text-align: center;
+}
+
+.bras{
+ border: none;
+width: 56px;
+height: 57px;
+border-radius: 15px;
+background-color: #06B25F;
+margin-left: 50px;
+
+}
+
+.bras img{
+    padding-left: 14px;
+    padding-top: 10px;
+    width: 42px;
+}
+
+.olma{
+    border: none;
+width: 56px;
+height: 57px;
+border-radius: 15px;
+background-color:#276ED8; 
+margin-left: 60px; 
+
+}
+.olma img{
+    padding-left: 14px;
+    padding-top: 10px;
+    width: 42px; 
+}
+
+.oyyin{
+    border: none;
+    width: 56px;
+    height: 57px;
+    border-radius: 15px;
+    background-color:#84B5FF;
+    margin-left: 50px;  
+}
+
+.oyyin img{
+    padding-left:11px;
+    padding-top: 12px;
+    width: 42px;   
+}
+
+.all{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    margin-right: 10px;
+}
+
+.tegg{
+    color: #242424;
+    font-size: 17px;
+}
+
+.ffff{
+    justify-content: center;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+
+.hammasi{
+    display: flex;
+  border: none;
+    width:600px;
+    margin-left: 140px;
+    padding-top: 110px;
+}
+
+.tort{
+  padding-top: 10px; 
+}
+.tort img{
+    width: 90px;
+}
+.tbsh{
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.yulduzlar{
+    padding-top: 20px;
+    padding-left: 7px;
+}
+.yulduzlar img{
+width: 100px;
+}
+.krew{
+    padding-top: 20px;
+    padding-left: 25px;
+}
+
+.tnab{
+    padding-top: 18px;
+    padding-left: 100px;
+}
+
+.tnab img{
+    width: 150px;
+}
+
+.serss{
+    color: #194484;
+    font-size: 36px;
+    text-transform: uppercase;
+ justify-content: center;
+ text-align: center;
+ padding-top: 110px;
+}
+
+.vike{
+    padding-top: 40px;
+    color: #0D6EB7;
+}
+
+.eksoo{
+    color: #0D6EB7;
+}
