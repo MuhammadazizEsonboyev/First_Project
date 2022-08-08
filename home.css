@@ -24,8 +24,12 @@ header{
 .navbar-expand-lg .navbar-nav .nav-link{
     color: white;
 } 
+.navbar-nav{
+    margin: 20px 0px 0px 150px;
+}
 
 .btn{
+    margin: 15px 0px 0px 100px;
     background: transparent;
     color: white;
 }
